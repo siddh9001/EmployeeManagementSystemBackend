@@ -1,2 +1,2 @@
 # EmployeeManagementSystemBackend
-It consist the backend of the Employee management System
+Consists of CRUD application implemented using StringBoot, JPARepository.
